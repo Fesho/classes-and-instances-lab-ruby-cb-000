@@ -1,6 +1,6 @@
 class Dog
-  fido=dog.new
-  snoppy=dog.new
-  lissly=dog.new
+  fido= Dog.new
+  snoppy= Dog.new
+lassie = Dog.new
   
 end
